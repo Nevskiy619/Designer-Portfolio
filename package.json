@@ -1,0 +1,16 @@
+{
+  "name": "web-pro-portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "https://nevskiy619.github.io/Designer-Portfolio",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  }
+}
